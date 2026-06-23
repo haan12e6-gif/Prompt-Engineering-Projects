@@ -1,0 +1,30 @@
+Input 1:
+My name is Ali Khan.
+Email: ali@gmail.com
+Phone: 03001234567
+
+Expected Output:
+{
+  "name":"Ali Khan",
+  "email":"ali@gmail.com",
+  "phone":"03001234567"
+}
+Input 2:
+Sara Ahmed
+Email: sara@gmail.com
+
+Expected Output:
+{
+  "name":"Sara Ahmed",
+  "email":"sara@gmail.com",
+  "phone": null
+}
+Input 3:
+Bilal lives in Lahore.
+
+Expected Output:
+{
+  "name":"Bilal",
+  "email": null,
+  "phone": null
+}
